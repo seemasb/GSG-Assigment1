@@ -79,8 +79,9 @@ color: white;
     .dots{
         display: flex;
         gap: 5px;
-        margin-left:457px;
-        margin-top: 17px;
+       /* margin-left:457px;*/
+       margin-left: 34%;
+        margin-top: 19px;
     }
 
 
@@ -108,6 +109,13 @@ color: white;
             gap: 5%;
             margin-left: 0;
             padding-top: 50px;
+        }
+        .dots{
+            display: flex;
+            gap: 5px;
+           /* margin-left:457px;*/
+           margin-left: 25%;
+            margin-top: 19px;
         }
 
       }
